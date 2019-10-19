@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2000px" height="1121px" viewBox="0 0 2000 1121" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Group 31 Copy@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="106.10758%" y1="35.1327018%" x2="-19.7000149%" y2="63.2783026%" id="linearGradient-1">
+            <stop stop-color="#97ACFF" stop-opacity="0.145487325" offset="0%"></stop>
+            <stop stop-color="#5E73FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="106.10758%" y1="40.7251104%" x2="-19.7000149%" y2="58.2836026%" id="linearGradient-2">
+            <stop stop-color="#97ACFF" stop-opacity="0.145487325" offset="0%"></stop>
+            <stop stop-color="#5E73FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="106.10758%" y1="31.270901%" x2="-19.7000149%" y2="66.7273596%" id="linearGradient-3">
+            <stop stop-color="#97ACFF" stop-opacity="0.145487325" offset="0%"></stop>
+            <stop stop-color="#5E73FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-31-Copy" transform="translate(0.000000, 1.000000)">
+            <g id="Group-28">
+                <g id="Group-27" transform="translate(0.000000, 0.181082)">
+                    <polygon id="Path-7" stroke="url(#linearGradient-1)" opacity="0.376883371" points="1385.88445 873.892517 1600.55132 683.477515 1561.64945 115.87101 81.5869337 201.982253"></polygon>
+                    <polygon id="Path-6" stroke="url(#linearGradient-2)" points="17.341796 792.632612 574.941105 23.6955945 1080.417 318.52806 1968.16756 446.974804"></polygon>
+                    <polyline id="Path-4" stroke="url(#linearGradient-3)" points="80.3747613 195.918081 17.341796 792.632612 350.689209 638.602641 574.941105 23.6955945 1080.417 64.9319645 1561.64945 115.87101 1985.90979 446.974804 1600.43896 683.477515 1560.43727 123.148016 1094.82571 324.975728 1079.99536 331.40421 371.29614 638.602641 56.1313131 161.958717 1586.00525 683.477515 19.7050938 792.538833 561.444077 977.828413 1586.00525 703.709602 1094.82571 23.6955945 1106.56836 1101.81536 573.958325 0.972288839 561.444077 961.730007 1385.88445 873.892517 1582.89793 101.587323 1899.74784 833.669827 1079.99536 1103.59459 596.296624 993.926818 392.853026 671.512791"></polyline>
+                    <ellipse id="Oval-Copy-12" fill="#1E1B6B" cx="1106.56836" cy="316.899827" rx="15.4155496" ry="15.4239685"></ellipse>
+                    <ellipse id="Oval" fill="#1E1B6B" cx="71.0455764" cy="161.956344" rx="28.150134" ry="28.1722096"></ellipse>
+                    <ellipse id="Oval-Copy-11" fill="#EEAC2B" cx="1560.32172" cy="117.685729" rx="16.0857909" ry="16.0984055"></ellipse>
+                    <ellipse id="Oval-Copy-10" fill="#E0585A" cx="1598.98372" cy="687.611196" rx="16.0857909" ry="16.0984055"></ellipse>
+                    <ellipse id="Oval-Copy-8" fill="#33B7C9" cx="16.0857909" cy="792.538833" rx="16.0857909" ry="16.0984055"></ellipse>
+                    <ellipse id="Oval-Copy-13" fill="#33B7C9" cx="1105.42297" cy="23.990918" rx="16.0857909" ry="16.0984055"></ellipse>
+                    <ellipse id="Oval-Copy-14" fill="#E0585A" cx="1105.42297" cy="1103.54581" rx="16.0857909" ry="16.0984055"></ellipse>
+                    <ellipse id="Oval-Copy-15" fill="#1E1B6B" cx="1897.3538" cy="830.196975" rx="16.0857909" ry="16.0984055"></ellipse>
+                    <ellipse id="Oval-Copy-16" fill="#1E1B6B" cx="590.201729" cy="981.337308" rx="31.1239193" ry="31.1410065"></ellipse>
+                    <ellipse id="Oval-Copy-9" fill="#1E1B6B" cx="1983.91421" cy="450.386109" rx="16.0857909" ry="16.0984055"></ellipse>
+                    <ellipse id="Oval-Copy-17" fill="#EEAC2B" cx="350.689209" cy="638.602641" rx="20.606931" ry="20.618185"></ellipse>
+                    <ellipse id="Oval" fill="#EEAC2B" cx="1385.88445" cy="873.892517" rx="13.3338965" ry="13.3411785"></ellipse>
+                </g>
+                <ellipse id="Oval-Copy-7" fill="#E0585A" cx="578.87035" cy="18.5933099" rx="17.4262735" ry="17.4399393"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

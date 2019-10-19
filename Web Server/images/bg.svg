@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="962px" height="1056px" viewBox="0 0 962 1056" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Rectangle@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="52.6916104%" y1="-7.90928633%" x2="51.1661761%" y2="84.8456056%" id="linearGradient-1">
+            <stop stop-color="#080C31" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#080C31" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="team-page-copy" transform="translate(-668.000000, -224.000000)" fill="url(#linearGradient-1)">
+            <rect id="Rectangle" x="668" y="224" width="962" height="1056"></rect>
+        </g>
+    </g>
+</svg>

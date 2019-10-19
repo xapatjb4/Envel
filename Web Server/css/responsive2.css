@@ -1,0 +1,15 @@
+
+@media(max-width:1399px) {
+	.banner.overview-block-ptb.style-1, .div#playpen {
+    padding-top: 50px;
+}
+h5 {
+    font-size: 22px;
+}
+}
+@media(max-width:1365px) {
+
+}
+@media(max-width:1199px) {
+
+}
