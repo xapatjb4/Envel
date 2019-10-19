@@ -173,6 +173,7 @@ color: #ffffff; }
                             Footer
 -----------------------------------------------------------------------*/
 .box-li { display: inline-block; width: 22.7%; margin-right: 30px; }
+.box-li:hover { transform: scale(1.1); -webkit-transition: all .2s ease-in-out; -moz-transition: all .2s ease-in-out; -o-transition: all .2s ease-in-out; transition: all .2s ease-in-out; } 
 .box-li:last-child { margin-right: 0; }
 .purple-box { background: #615be6; }
 .sky-box { background: #33b7c9; }
@@ -185,7 +186,7 @@ color: #ffffff; }
 .box-block .month { display: block; width: 100%; float: right; position: absolute; text-align: right; bottom: 10px; right: 15px; font-size: 80%; padding-top: 10px; font-family: 'Conv_EuclidCircularB-Regular'; font-weight: 400; }
 .box-block .month:before { content: ""; position: absolute; top: 0; left: 45px; height: 1px; width: 100%; display: inline-block; background: rgba(255, 255, 255, 0.2); }
 .envelopes .box-li { width: 46.88%; margin-bottom: 15px; transform: scale(1.0); -webkit-transition: all .2s ease-in-out; -moz-transition: all .2s ease-in-out; -o-transition: all .2s ease-in-out; transition: all .2s ease-in-out; }
-.envelopes .box-li a { display: inline-block; width: 100%; }
+.envelopes .box-li a { display: inline-block; width: 100%; } 
 .envelopes .box-li:nth-child(even) { margin-right: 0; }
 .envelopes .box-li:hover { transform: scale(1.1); -webkit-transition: all .2s ease-in-out; -moz-transition: all .2s ease-in-out; -o-transition: all .2s ease-in-out; transition: all .2s ease-in-out; }
 .mfp-bg { background: #050824 !important; opacity: 1; }

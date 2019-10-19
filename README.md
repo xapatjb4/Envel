@@ -1,7 +1,7 @@
 # Envel
 
 1- Cards need to get deleted placed in first card page
-2- Live for today vid needs to get updated
+2- Live for today vid needs to get updated (make controls invisible)
 -- Add phone surrounding
 3- Reset split the bill
 4- buttons change (gradient and gradient blue)
