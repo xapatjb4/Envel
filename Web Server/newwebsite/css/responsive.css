@@ -98,7 +98,7 @@
     .section.banner { padding: 0; }
     .section { padding: 40px 0 0; }
     #bt-signup .container { overflow: hidden; }
-    .box-li, .envelopes .box-li { width: 100%; }
+    .box-li, .envelopes .box-li { width: 50%;  }
     .banner .scroll-down { bottom: -60px; }
     .video_img { top: -109px; left: -30px; margin: 0 auto; right: 0; max-width: 510px; width: 510px; }
     .section.fp-section.fp-completely .goals-text, .section.fp-section.fp-completely .m-mobile, .section.fp-section.fp-completely .m2-mobile { -webkit-animation: none !important; animation: none !important; }

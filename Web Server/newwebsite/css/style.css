@@ -79,7 +79,7 @@ hr { margin: 0; padding: 0px; border-bottom: 2px solid rgba(255, 255, 255, 0.1);
   outline: none;
 }
 #redpill{
-  background-image: linear-gradient(to right, red 0%, crimson 51%,red 100%);
+  background-image: linear-gradient(to right, red 0%, darkred 51%,red 100%);
 }
 #bluepill{
   background-image: linear-gradient(to right, blue 0%, navy 51%,blue 100%);
