@@ -2,6 +2,7 @@
     .banner-list { bottom: -120px; }
     .banner .scroll-down { bottom: -180px; }
     .split-text { margin-top: 11% !important; }
+    
 }
 @media(max-width:1199px) {
     .box-li { margin-right: 24.5px; }

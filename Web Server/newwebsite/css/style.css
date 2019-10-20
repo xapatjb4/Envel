@@ -49,6 +49,12 @@ hr { margin: 0; padding: 0px; border-bottom: 2px solid rgba(255, 255, 255, 0.1);
 /*----------------------------------------------------------------------
                         Buttons
 -----------------------------------------------------------------------*/
+#redpill{
+  background-image: linear-gradient(to right, red 0%, crimson 51%,red 100%);
+}
+#bluepill{
+  background-image: linear-gradient(to right, blue 0%, navy 51%,blue 100%);
+}
 .button { color: #fff; cursor: pointer; padding: 10px 30px; border: none; position: relative;     background-image: linear-gradient(to right, rgb(118,50,251) 0%, rgb(52,96,253) 51%,rgb(118,50,251) 100%);
     background-size: 200% auto; font-family: 'Conv_EuclidCircularB-Regular'; display: inline-block; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; }
 .button:hover, .button:focus { color: #ffffff; background-position: right center; outline: none; }
