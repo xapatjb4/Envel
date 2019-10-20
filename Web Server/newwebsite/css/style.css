@@ -49,6 +49,35 @@ hr { margin: 0; padding: 0px; border-bottom: 2px solid rgba(255, 255, 255, 0.1);
 /*----------------------------------------------------------------------
                         Buttons
 -----------------------------------------------------------------------*/
+
+#back2Top {
+  width: 40px;
+  line-height: 40px;
+  overflow: hidden;
+  z-index: 999;
+  display: none;
+  cursor: pointer;
+  -moz-transform: rotate(270deg);
+  -webkit-transform: rotate(270deg);
+  -o-transform: rotate(270deg);
+  -ms-transform: rotate(270deg);
+  transform: rotate(270deg);
+  position: fixed;
+  bottom: 50px;
+  right: 30px;
+  border-radius: 5px;
+  background-image: linear-gradient(to bottom, rgb(118,50,251), rgb(52,96,253));
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  text-decoration: none;
+}
+#back2Top:hover, .button:focus {
+  color: #ffffff;
+  background-position: 
+  right center; 
+  outline: none;
+}
 #redpill{
   background-image: linear-gradient(to right, red 0%, crimson 51%,red 100%);
 }

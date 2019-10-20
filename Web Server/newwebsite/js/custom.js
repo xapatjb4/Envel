@@ -8,7 +8,25 @@ jQuery(document).ready(function() {
     jQuery("#load").fadeOut();
     jQuery("#loading").delay(0).fadeOut("");
 
+    /*Scroll to top when arrow up clicked BEGIN*/
+    $(window).scroll(function () {
+        var height = $(window).scrollTop();
+        if (height > 100) {
+            $('#back2Top').fadeIn(1400);
+        } else {
+            $('#back2Top').fadeOut(400);
+        }
+    });
+    $(document).ready(function() {
+        $("#back2Top").click(function(event) {
+            event.preventDefault();
+            $("html, body").animate({ scrollTop: 0 }, "slow");
+            return false;
+        });
 
+    });
+    /*Scroll to top when arrow up clicked END*/
+    
     /*------------------------
     Back To Top
     --------------------------*/
